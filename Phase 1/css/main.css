@@ -1,0 +1,145 @@
+#page {
+    margin: 10%;
+    
+}
+
+#ln3{color: darkgray;}
+#price{color: red;}
+#rev{color: gainsboro;}
+
+
+
+body {
+    font-family: sans-serif;
+}
+
+#exclusive {
+    margin-left: 2.5%;
+}
+
+div button {
+    border-radius: 50%;
+    padding: 12.5px;
+    
+    margin-right: 10px;
+}
+
+div.row{
+    margin-bottom: 15px;
+}
+
+
+#zero {
+    border-radius: 30px;
+    padding: 10px 25px;
+    background-color: white;
+    border-color: lightslategray;
+    border-width: thin;
+}
+
+#cart {
+    border-radius: 30px;
+    width: 300px;
+    background-color: black;
+    border-width: thin
+}
+
+
+.bg-modal{
+    
+    
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    display: flex;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+.modal-content{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    border-radius: 4px;
+    position: relative;
+}
+    
+#add{
+    border-radius: 50%;
+    border-width: thin;
+    background-color: black;
+    border: none;
+    padding: 12.5px;
+    
+}
+
+#cancel{
+    background-color: #f9e2d2;
+    border-radius: 5px;
+    position: absolute;
+    top: 80%;
+    right: 4%;
+    color: black;
+    border: 2px solid #b45918;
+}
+
+#agree{
+    background-color: #caf5b3;
+    position: absolute;
+    top: 80%;
+    right: 20%;
+    border-radius: 5px;
+    color: black;
+    border: 2px solid #77a150;
+}
+
+
+#colour{
+    position: absolute;
+    top: 40%;
+    left: 32%;
+}
+
+#plus{
+    position: absolute;
+    background-color:  black;
+    color: white;
+    border: 5px solid black;
+    top: 40%;
+    left: 85%;
+}
+
+#minus{
+    position: absolute;
+    background-color: black;
+    color: white;
+    border: 5px solid black;
+    top: 40%;
+    left: 55%;
+}
+
+#quantity{
+    position: absolute;
+    top: 38%;
+    left: 72%;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
